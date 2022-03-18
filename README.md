@@ -35,3 +35,12 @@ Para ello nos apoyamos en diversas herramientas:
 ---
 
 ¡Pero por sobre todo en nuestra capacidad de superar la inevitable frustración, fortalecer nuestras mentes, superar el sufrimiento y alcanzar el _Nirvana_!
+
+---
+
+Cada sesión consiste en:
+
+  * Breve intro
+  * 40 minutos de resolución de problemas en grupos pequeños
+  * 40 minutos de ejecución de soluciones en público y diálogo
+  * Pedimos nos llenen un formulario para mejorar este espacio
