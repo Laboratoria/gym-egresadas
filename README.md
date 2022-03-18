@@ -1,16 +1,23 @@
 # Gym
-## _dōjō_
 
-_dō_ - camino
-_jō_ - sitio
+> ## _dōjō_
+>
+> ```
+> _dō_ - camino
+> _jō_ - sitio
+> ```
 
 ---
 
-En el _dōjō_ buscamos llevar a cabo las prácticas y los ejercicios que nos facultan para enfrentar los problemas que nos enfrentamos en el día a día.
+En el _dōjō_ buscamos llevar a cabo las prácticas y los ejercicios que nos facultan para enfrentar **los problemas que nos enfrentamos en el día a día***.
+
+_Por ejemplo, en entrevistas de trabajo..._
 
 ---
 
 Buscamos alcanzar un estado de concentración en el cual podemos analizar los problemas en forma sistemática y lógica.
+
+_Y aprender nuevas formas de resolver problemas_
 
 ---
 
