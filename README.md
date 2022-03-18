@@ -40,7 +40,23 @@ Para ello nos apoyamos en diversas herramientas:
 
 Cada sesión consiste en:
 
-  * Breve intro
+  * Breve intro [ meditación, precalentamiento ]
   * 40 minutos de resolución de problemas en grupos pequeños
   * 40 minutos de ejecución de soluciones en público y diálogo
-  * Pedimos nos llenen un formulario para mejorar este espacio
+  * Breve formulario de feedback y cierre
+
+---
+
+El espacio para egresadas apunta a ayudar con ejercicios y problemas que hayan encontrado en situaciones de entrevista.
+
+## ¡Para ello necesitamos de Uds!
+
+---
+
+## Por favor háganos llegar sus ejercicios o problemas de entrevista
+
+De este modo haremos este espacio más útil y... probaremos nuestras técnicas en situaciones reales, sin que nadie salga herido.
+
+¡Esperamos recibir sus contribuciones a este espacio!
+
+¡Bienvenidxs!
