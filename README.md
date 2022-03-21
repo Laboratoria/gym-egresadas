@@ -25,26 +25,30 @@ Buscamos también la _pureza de la forma_ - expresar nuestras ideas con claridad
 
 ---
 
-- # 1 - Sesiones
+## Sesiones
 
-    Fechas: Miércoles 23, 30 de Marzo, 6 y 13 de Abril
-    Horarios: 10:00AM - 11:30AM COT
+### Fechas y horarios
 
-  Formato de la sesion:
-    - Breve intro [ meditación, precalentamiento ]
-    - 40 minutos de resolución de problemas en grupos pequeños
-    - 40 minutos de ejecución de soluciones en público y diálogo
-    - Breve formulario de feedback y cierre
+Fechas: Miércoles 23, 30 de Marzo, 6 y 13 de Abril
 
+Horarios: 10:00AM - 11:30AM COT
 
-- # 2 - Retos
-  Necesitamos de uds para coleccionar problemas tipo entrevista de trabajo. Hay varias herramientas:
+### Formato de las sesiones
 
-    - Hackerrank
-    - Codewars
-    - CSSBattle
-    - (poner links aquí)
+- Breve intro [ meditación, precalentamiento ]
+- 40 minutos de resolución de problemas en grupos pequeños
+- 40 minutos de ejecución de soluciones en público y diálogo
+- Breve formulario de feedback y cierre
 
+## Retos
+  
+Necesitamos de **ustedes** para recopilar problemas que tenga valor resolver juntxs.
 
+Hay varias herramientas:
 
-
+- Entrevistas antiguas
+- [Hackerrank](https://www.hackerrank.com/domains/algorithms)
+- [Codewars](https://www.codewars.com/kata)
+- [LeetCode](https://leetcode.com/problemset/algorithms/)
+- [CSSBattle](https://cssbattle.dev/)
+- Otras plataformas
