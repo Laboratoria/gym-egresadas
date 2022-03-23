@@ -53,5 +53,5 @@ Hay varias herramientas:
 - [CSSBattle](https://cssbattle.dev/)
 - Otras plataformas
 
-# [Sesión 1](./sessions/session-1.md)
-
+## Sesiones
+### [Sesión 1 - 23/03/2022](./sessions/session-1.md)
