@@ -1,13 +1,13 @@
 # Sesión 1
 
-## Newbie
+## 1 [Elevator Distance](exercises/elevator-distance/README.html) (newbie)
 
-## Beginner
+## 2 [Closest Elevator](exercises/closest-elevator/README.html) (beginner)
 
-## Intermediate
+## 3 [Simple Elevator](exercises/simple-elevator/README.html) (intermediate)
 
-## Difficult
+## 4 [The Lift](exercises/the-lift/README.html) (difficult 😅)
 
-## Formulario de retroalimentación
+## [Formulario de retroalimentación](https://docs.google.com/forms/d/e/1FAIpQLSds2qzADycWhSC1F_Cmh5RE8KcYj0QdSxhlVQgcynSvtqUM3w/viewform)
 
-https://docs.google.com/forms/d/e/1FAIpQLSds2qzADycWhSC1F_Cmh5RE8KcYj0QdSxhlVQgcynSvtqUM3w/viewform
+# 🙇 ✨ 🙇‍♀️

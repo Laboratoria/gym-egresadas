@@ -52,3 +52,6 @@ Hay varias herramientas:
 - [LeetCode](https://leetcode.com/problemset/algorithms/)
 - [CSSBattle](https://cssbattle.dev/)
 - Otras plataformas
+
+# [Sesión 1](./sessions/session-1.md)
+
