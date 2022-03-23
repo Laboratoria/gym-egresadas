@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - newbie
+  - intermediate
 ---
 
 # Simple Elevator

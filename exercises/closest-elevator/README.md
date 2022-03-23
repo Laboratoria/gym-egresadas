@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - newbie
+  - beginner
 ---
 
 # Closest Elevator
