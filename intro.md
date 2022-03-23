@@ -51,3 +51,16 @@ De este modo haremos este espacio más útil y... probaremos nuestras técnicas 
 ¡Esperamos recibir sus contribuciones a este espacio!
 
 ¡Bienvenidxs!
+
+---
+
+# Kata Sanchin
+## _Ejercicio de Respiración y Postura_
+# 🧘‍♀️ ⛩️ 🧘‍♂️
+
+---
+
+# Manos a la obra
+
+
+# 🤜  -  [Sesión 1](export/sessions/session-1.html)
