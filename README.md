@@ -55,3 +55,4 @@ Hay varias herramientas:
 
 ## Sesiones
 ### [Sesión 1 - 23/03/2022](./sessions/session-1.md)
+### [Sesión 2 - 30/03/2022](./sessions/session-2.md)

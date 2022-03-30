@@ -6,7 +6,7 @@
 
 ## 3 [Simple Elevator](/exercises/simple-elevator/README.md) (intermediate)
 
-## 4 [The Lift](/exercises/the-lift/README.md) (difficult 😅)
+## 4 [The Lift](/exercises/the-lift/README.md) (advanced 😅)
 
 ## [Formulario de retroalimentación](https://docs.google.com/forms/d/e/1FAIpQLSds2qzADycWhSC1F_Cmh5RE8KcYj0QdSxhlVQgcynSvtqUM3w/viewform)
 
