@@ -8,4 +8,4 @@
 
 ## 4 [makeChocolate](../exercises/makeChocolate/README.md) (intermediate)
 
-# 🧘⛩️♀️ 🧘
+# 🧘⛩️🧘
