@@ -46,7 +46,7 @@ El espacio para egresadas apunta a ayudar con ejercicios y problemas que hayan e
 
 ## Por favor háganos llegar sus ejercicios o problemas de entrevista
 
-De este modo haremos este espacio más útil y... probaremos nuestras técnicas en situaciones reales, sin que nadie salga heridx.
+De este modo haremos este espacio más útil y... probaremos nuestras técnicas en siftuaciones reales, sin que nadie salga heridx.
 
 ¡Esperamos recibir sus contribuciones a este espacio!
 
