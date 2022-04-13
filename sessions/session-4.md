@@ -4,6 +4,8 @@
 
 ## 2 [x marks the spot](../exercises/xmarksthespot/README.md) (beginner)
 
-## 3 [Adding Arrays](../exercises/addingArrays/README.md)
+## 3 [Adding Arrays](../exercises/addingArrays/README.md) (beginner)
+
+## 4 [Who's online?](../exercises/whosOnline/README.md) (beginner)
 
 # 🧘⛩️🧘
